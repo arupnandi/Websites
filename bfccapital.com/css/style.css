@@ -1,0 +1,63 @@
+body { margin:0px; background-color:#dee0e2;  }
+FORM { margin:0px;}
+
+.searchbox { font-family: Arial, Helvetica, sans-serif; font-size:12px; color: #000000; border:0px; height:20px; text-align:center left; height:20px; background-image:url(../images/search_mid2.gif); background-position:top;} 
+
+.newsheader { font-family:Verdana, Geneva, sans-serif; font-size: 17px; color:#ffffff; text-align:left; }
+
+.dataheader { font-family: Arial, Helvetica, sans-serif; font-size: 16px; color:#412c1b; text-decoration:none; text-align:left; padding-bottom:3px; font-weight:bold; }
+
+.enquiry { font-family: Arial, Helvetica, sans-serif; font-size:12px; color: #000000; background-color:#ffffff; width:180px; } 
+
+.footer { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#333333; text-decoration:none; text-align:left; line-height:20px; }
+.footer a:link{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#333333; text-decoration:none;  }
+.footer a:active{ font-family: Arial, Helvetica, sans-serif; color:#333333; text-decoration:none; }
+.footer a:visited{ font-family: Arial, Helvetica, sans-serif; color:#333333; text-decoration:none;  }
+.footer a:hover{ font-family: Arial, Helvetica, sans-serif; color:#ff0000; text-decoration:none;  }
+
+.footer2 { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#000000; text-align:left; }
+.footer2 a:link{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#000000; text-decoration:underline; }
+.footer2 a:active{ font-family: Arial, Helvetica, sans-serif; color:#000000; text-decoration:underline; }
+.footer2 a:visited{ font-family: Arial, Helvetica, sans-serif; color:#000000; text-decoration:underline; }
+.footer2 a:hover{ font-family: Arial, Helvetica, sans-serif; color:#ff0000; text-decoration:underline;  }
+
+.welcometext {  font-family: Arial, Helvetica, sans-serif; color:#be7300; text-decoration:none; font-size:11px; line-height:15px;  text-align:justify; padding-left:10px; padding-right:10px; }
+.readmore { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#013974;  text-align:right; padding-right:12px; text-decoration:none; }
+.readmore a:link{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#013974; text-decoration:none;  }
+.readmore a:active{ font-family: Arial, Helvetica, sans-serif; color:#013974; text-decoration:none; }
+.readmore a:visited{ font-family: Arial, Helvetica, sans-serif; color:#013974; text-decoration:none;  }
+.readmore a:hover{ font-family: Arial, Helvetica, sans-serif; color:#95d400; text-decoration:none;}
+
+.login{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#ffffff; font-weight: nmormal; text-decoration:none; text-align:center; }
+
+.headerbold { font-family: Arial, Helvetica, sans-serif; font-size: 13px; color:#ffffff; text-decoration:none; text-align:center; }
+
+.search { font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color:#666666; font-weight: nmormal; text-decoration:none; text-align:left; }
+
+.textheader{ font-family:tahoma, arial, verdana; background-color:#e3ebfe; color:#333333; font-size:13px; font-weight:bold; padding-left:3px; text-align:left; border-bottom:solid 1px #003acc; line-height:25px;}
+
+.header2 { font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-align:center;  }
+
+.bodytext { font-family:verdana, Arial, Helvetica, sans-serif; font-size: 11px; color:#000000; text-align:justify; line-height:18px;}
+
+.bodyhead { font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#1a42a6; text-align:justify; line-height:18px;  padding-right:5px; font-weight:bold;}
+
+.bodytexthead { font-family: verdana; font-size: 13px; color: #9D223F; font-weight: bold;}
+.bodytextsubhead { font-family: arial, verdana; font-size: 12px; color: #C3602F; font-weight: bold;}
+
+.taxsubhead { font-family: tahoma; font-size: 12px; color: #9D223F; font-weight: bold; padding-top: 3px; padding-bottom: 3px;}
+
+.username{ font-family: Tahoma, Arial, Helvetica, sans-serif;  font-size: 12px; color:#000000; text-align:left; padding-left:10px;}
+
+.productsmenu { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#8a8a8a; text-decoration:none;  text-align:left; line-height:21px; }
+.productsmenu a:link{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#8a8a8a; text-decoration:none;  text-align:left; }
+.productsmenu a:active{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#8a8a8a; text-decoration:none;  text-align:left; }
+.productsmenu a:visited{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#8a8a8a; text-decoration:none;  text-align:left; }
+.productsmenu a:hover{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#8a8a8a; text-decoration:none;  text-align:left; padding-left:5px;}
+
+.cal{font-family: arial, verdana; font-size:12px; color:#ffffff; text-align:center; border:solid 1px #FFFFFF; background-color:#0f13b1;  text-decoration:none;}
+.cal a:link{font-family: arial, verdana; font-size:12px; color:#ffffff; text-align:center; text-decoration:none; }
+.cal a:active{font-family: arial, verdana; font-size:12px; color:#ffffff; text-align:center;  text-decoration:none; }
+.cal a:visited{font-family: arial, verdana; font-size:12px; color:#ffffff; text-align:center; text-decoration:none;}
+.cal a:hover{font-family: arial, verdana; font-size:14px; color:#ffffff; text-align:center; text-decoration:none;}
+

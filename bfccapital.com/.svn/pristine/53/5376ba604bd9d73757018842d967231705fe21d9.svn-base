@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Membership</title>
+<link href="css/style-new.css" rel="stylesheet" type="text/css" />
+
+<meta name="keywords" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, Commodity, PMS, Latest NAV, KYC"  />
+<meta name="description" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, PMS, Latest NAV, Commodity, KYC" />
+
+<link rel="stylesheet" type="text/css" href="menu/jqueryslidemenu.css" />
+<script type="text/javascript" src="menu/jquery.min.js"></script>
+<script type="text/javascript" src="menu/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="menu/menu.js"></script>
+
+<script language="javascript1.4" src="js/fade-in_life.js" type="text/javascript"></script><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<style type="text/css">
+.style1 {font-weight: bold}
+</style>
+</head>
+
+<body>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><iframe src="header.htm" width="100%" height="110" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="20"><script>mainmenu()</script></td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+  <tr>
+    <td><iframe src="flash_header.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="10%" valign="top"><table width="303" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><iframe src="login.htm" width="100%" height="140" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="graph.htm" width="100%" height="220" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td height="10"><iframe src="calculator_side.htm" width="100%" height="90" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="wealth.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+        </table></td>
+        <td width="90%" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="textheader">Membership </td>
+          </tr>
+          <tr>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td colspan="2" class="bodytext"><p>In the changing market dynamics,  we at BFC Capital serve only the clients who are our members. Membership at BFC  Capital is basically an association with a client wherein we provide him with  the vital advisory on all his financial requirements; and in lieu of that  charge him with a nominal advisory fee. This is a comparatively a unique  concept where in we do not get into a product centric approach; rather we  follow a customized advisory model.<br />
+                  <br />
+                  In the process of making a member,  first we collect vital informations about the member &amp; make a bond of trust  with him. We have divided our membership in different groups, which helps to  categorize the members according to their profile, portfolio, goals, structure,  etc.&nbsp; Every member gets company&rsquo;s value  added services (viz: free invitation to our educational programs, newsletters, magazines,  mailers, sms and many more) at regular intervals of time. We do different  research and analysis in different fields &amp; aspects of the market in order  to dig out the best for our members. <br />
+                </p></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">We have divided our membership plans in to three categories:</td>
+              </tr>
+              <tr>
+                <td colspan="2"><ol class="bodytext style1">
+                  <li>Solitaire  Membership </li>
+                  <li>Platinum  Membership</li>
+                </ol></td>
+              </tr>
+              <tr>
+                <td colspan="2">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><p>Apart  from these two, we also have a <strong>Peer Clientele  Group (PCG)</strong> which is available only for Institutional Clients.</p>
+                  <p>If after getting enrolled for any specific category, the  member qualifies for the higher category of membership due to increase in the  size of portfolio or any other specific requirement we upgrade the membership  from that particular moment of time but charge the higher fee at the time of  next renewal only.&nbsp; </p></td>
+              </tr>
+              <tr>
+                <td colspan="2">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">Scope of our Services can be summarized as follows :</td>
+              </tr>
+              <tr>
+                <td colspan="2" valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(a)&nbsp;</strong></td>
+                <td class="bodytext">Analyze the Securities, Stocks, Bonds  etc. to be purchased or sold or investments to be made or sold and contracts or  arrangements to be entered into and put before the member our analysis report  to help him/her to in taking a prudent decision.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(b)&nbsp;</strong></td>
+                <td class="bodytext"> Determine and suggest the appropriate  asset allocation in his/her portfolio according to his/her profile; viz: age,  goals, family structure, income group etc.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(c)&nbsp;</strong></td>
+                <td class="bodytext">Identify  member&rsquo;s financial goals; find the product to achieve those goals and tracking  of goals on continuous basis to provide support or stimulus, making necessary  changes in the product mix, if required.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(d)&nbsp;</strong></td>
+                <td class="bodytext"> Provide all details, research &amp;  analysis reports and other related data and services related  to selection, acquisition, and disposal of investments products.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(e)&nbsp;</strong></td>
+                <td class="bodytext">Furnish periodic research reports on  different market segments/ asset class in order to give an overview of the  market which helps our members in taking a prudent investment decision.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(f)&nbsp;</strong></td>
+                <td class="bodytext">&nbsp;Submit &ldquo;<em>Portfolio  Performance Report</em>&rdquo; periodically and &ldquo;<em>Portfolio  Reviews</em>&rdquo; on regular basis.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(g)&nbsp;</strong></td>
+                <td class="bodytext">Source an investment product from the product  universe which is the &ldquo;<em>Most Compatible</em>&rdquo;  with member&rsquo;s goals &amp; objectives. </td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(h)&nbsp;</strong></td>
+                <td class="bodytext">Supervise and negotiate contractual  arrangements with other Intermediaries who are dealing in different categories  of financial products on behalf of our client if required. </td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(i)&nbsp;</strong></td>
+                <td class="bodytext">Monitor the performance of different  class of assets in the portfolio &amp; compare their performance with their  respective benchmarks. Apart from routine portfolio review, in case of some  extra ordinary situation we make interim portfolio review also.&nbsp; </td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(j)&nbsp;</strong></td>
+                <td class="bodytext"> Study &amp; analyze the latest market trends  due to various domestic as well as  international factors &amp; suggest accordingly to our clients.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(k)&nbsp;</strong></td>
+                <td class="bodytext">Organize  different educational programs in order to educate our clients on new happenings/ changes/developments in the market. Our members are entitled  to a free invitation to such programs.&nbsp;&nbsp; </td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(l)&nbsp;</strong></td>
+                <td class="bodytext">Hire highly qualified &amp; experienced  Wealth Managers &amp; Analysts to handle member&rsquo;s portfolio in a highly  professional manner.&nbsp;&nbsp; </td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(m)&nbsp;</strong></td>
+                <td class="bodytext">Provide door step services to our client in  respect of achieving the investment objective.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>(n)&nbsp;</strong></td>
+                <td class="bodytext">Maintain all the key documents  and other records with respect to investments and financial planning as a  whole.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="6%" valign="top" class="bodytext"><strong>(o)</strong></td>
+                <td width="94%" class="bodytext">Do all other such acts,  deeds and things which deems necessary  to achieve the investment  objectives.</td>
+              </tr>
+              <tr>
+                <td colspan="2">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2"><span class="bodytext">Do <a href="contactus.htm">Contact Us</a> for more   details. </span></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td style="border-bottom:solid 1px #FFF;"><iframe src="link.htm" width="100%" height="40" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe src="copyright.htm" width="100%" height="25" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+</table>
+</body>
+</html>

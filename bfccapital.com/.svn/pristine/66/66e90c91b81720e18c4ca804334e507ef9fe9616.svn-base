@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Know Your Client</title>
+<link href="css/style-new.css" rel="stylesheet" type="text/css" />
+
+<meta name="keywords" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, Commodity, PMS, Latest NAV, KYC"  />
+<meta name="description" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, PMS, Latest NAV, Commodity, KYC" />
+
+<link rel="stylesheet" type="text/css" href="menu/jqueryslidemenu.css" />
+<script type="text/javascript" src="menu/jquery.min.js"></script>
+<script type="text/javascript" src="menu/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="menu/menu.js"></script>
+
+<script language="javascript1.4" src="js/fade-in_life.js" type="text/javascript"></script><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+</head>
+
+<body>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><iframe src="header.htm" width="100%" height="110" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="20"><script>mainmenu()</script></td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+  <tr>
+    <td><iframe src="flash_header.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="10%" valign="top"><table width="303" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><iframe src="login.htm" width="100%" height="140" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="graph.htm" width="100%" height="220" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td height="10"><iframe src="calculator_side.htm" width="100%" height="90" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="wealth.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+        </table></td>
+        <td width="90%" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="textheader">Know Your Client</td>
+          </tr>
+          <tr>
+            <td><table width="100%" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="left" valign="top" class="bodytext">In order to comply with   regulatory provisions under the Prevention of Money Laundering Act 2002, Rules   issued thereunder and related guidelines/circulars issued by SEBI, KYC   formalities are required to be completed for all Unit Holders, including   Guardians and Power of Attorney holders, for any investment   in mutual funds, all mutual funds have made special arrangements   with CDSL Ventures Ltd. (CVL), a wholly owned subsidiary of Central Depository   Services (India) Ltd. (CDSL)). </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left">&nbsp;</td>
+              </tr>
+              <tr >
+                <td height="18" align="left" valign="top" class="bodyhead">DOCUMENTS AND INFORMATION TO BE   PROVIDED BY INVESTORS:</td>
+              </tr>
+              <tr>
+                <td width="81%" align="left" valign="top" class="bodytext"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="46%">Investors in mutual fund   schemes have to provide:<br />
+                      (1) Proof of Identity <br />
+                      (2) Proof of Address <br />
+                      (3) PAN Card <br />
+                      (4) Photograph <br />
+                      <a href="http://www.investwellonline.com/websiteitem/form/PrescribedDocuments.pdf" target="_blank">(Click here for List of   documents)</a></td>
+                    <td width="27%" align="right" valign="bottom"><a href="kyc_status.htm" ><img src="images/kycstatus.gif" width="165" height="105" border="0" /></a></td>
+                    <td width="27%" align="right" valign="bottom"><a href="http://www.cvlkra.com" target="_blank"><img src="images/kycstatus2012.jpg" width="165" height="105" /></a></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="bodytext">The originals of these   documents along with a copy each to be presented and the original will be   returned after verification. Alternatively, investors can also provide an   attested true copy of the relevant documents. Attestation could be done by   Notary Public/ Gazetted Officer/ Manager of a Scheduled Commercial Bank. </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="bodytext">Instead of providing the   required documents again and again to different mutual funds in which one would   like to invest, CVL, on behalf of all mutual funds will carry out the process of   KYC and issue an acknowledgement.</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="bodytext">Investors have to provide the   relevant documents and information ONLY ONCE for complying with KYC. After that   Investors could invest in the schemes of all mutual funds by merely attaching a   copy of the KYC acknowledgement slip with the application form / transaction   slip when investing for the first time in every folio (Post KYC) in each Mutual   Fund house, without the necessity to submit the KYC documents again.</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="bodytext">Any subsequent changes in   address or other details could be intimated to any of the POS (with relevant   documentary evidence) <a href="http://www.investwellonline.com/websiteitem/form/KYC-CF.pdf" target="_blank">(click here for Change form Individual</a> /<a href="http://www.investwellonline.com/websiteitem/form/KYC-NICF.pdf" target="_blank">Click here for change form Non-Individual)</a> and the same   will get updated in all the mutual funds where the investor has   invested.</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td colspan="3" align="left" valign="top" class="bodyhead"><strong>WHERE TO COMPLETE THE   FORMALITIES:</strong></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" align="left" colspan="3">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td colspan="3" align="left" valign="top" class="bodytext">Investors could complete the   formalities by submitting the KYC form <a href="http://www.investwellonline.com/websiteitem/form/Individual-KYC.pdf" target="_blank">(Click here for Individual KYC Form)</a> / <a href="http://www.investwellonline.com/websiteitem/form/NonIndividual-KYC.pdf" target="_blank">(Click here for   Non-Individual KYC Form)</a> and relevant documents at the Points of Services   (POS).</td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="bodytext1">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="bodytext">For any assistance, please do <a href="contactus.htm">contact us. </a></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="bodytext1">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td style="border-bottom:solid 1px #FFF;"><iframe src="link.htm" width="100%" height="40" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe src="copyright.htm" width="100%" height="25" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+</table>
+</body>
+</html>

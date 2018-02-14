@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Insurance</title>
+<link href="css/style-new.css" rel="stylesheet" type="text/css" />
+
+<meta name="keywords" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, Commodity, PMS, Latest NAV, KYC"  />
+<meta name="description" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, PMS, Latest NAV, Commodity, KYC" />
+
+<link rel="stylesheet" type="text/css" href="menu/jqueryslidemenu.css" />
+<script type="text/javascript" src="menu/jquery.min.js"></script>
+<script type="text/javascript" src="menu/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="menu/menu.js"></script>
+
+<script language="javascript1.4" src="js/fade-in_life.js" type="text/javascript"></script><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+</head>
+
+<body>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><iframe src="header.htm" width="100%" height="110" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="20"><script>mainmenu()</script></td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+  <tr>
+    <td><iframe src="flash_header.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="10%" valign="top"><table width="303" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><iframe src="login.htm" width="100%" height="140" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="graph.htm" width="100%" height="220" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td height="10"><iframe src="calculator_side.htm" width="100%" height="90" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="wealth.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+        </table></td>
+        <td width="90%" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="textheader">Insurance</td>
+          </tr>
+          <tr>
+            <td><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0" >
+              <tr>
+                <td class="bodytext"><img src="images/insurance.png" width="215" height="159" style="float:right; padding-left:10px;" />Insurance  is a highly misunderstood product and it's often bought and sold for the wrong  reasons. At the same time it's a very important part of your life and you must  know certain ground rules for making the right decisions in the New Year. Many of us consider insurance just another investment for tax saving. Our  day-to-day life is full of unpredictable risks for example loss of life, loss  of income, critical illness, disability etc. Insurance planning means figuring  out adequate cover against &quot;insurable risks&quot; and getting the maximum  out of the premium you pay. Tax exemption is just another aspect of it.
+                  <p><strong>Having the right insurance cover gives you peace  of mind as it provides financial support in case of contingencies.</strong></p></td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><strong class="bodyhead">Insurance is for the earning member of the family</strong></td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">Life insurance is a replacement for your income.  When your income ceases or falls insufficient either due to death, illness,  retirement or a major goal such as children's education or marriage, insurance  fills in the gap. On your death, the money received from term insurance  policies will provide a corpus with which the family can pay off debts, convert  dreams to reality and still lead a comfortable life. You must have seen cases  of non-working mothers or non-earning family members getting insured. It goes  against the fundamental principle of insurance. <br />
+                  Therefore it's important that the breadwinner  covers the risks to his life and income, so that his family's quality of life  is not compromised after he is gone.</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><strong class="bodyhead">Your life insurance needs</strong></td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">Calculating  life insurance needs is not a simple exercise but you must evaluate your  current and required cover in 2010 and take corrective action. Remember that  each of us has our own lifestyle, goals, aspirations and dependents which may  be completely different from the life situation for your friend or colleague.  So what works for someone else may not work for you. <br />
+                  There are essentially three ways to calculate  your insurance needs</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext"> a) <strong>Expense protection</strong><strong><br />
+                  </strong>Calculates the corpus required to take care of the family's future expenses  and goals. Inflation diminishes the value of money and hence expenses need to  be adjusted to inflation for calculation of protection required.&nbsp;&nbsp; <br />
+                  <br />
+                  b) <strong>Human life value</strong><strong><br />
+                    </strong>It is the economic value of an individual; the present value of all his or  her future income. Setting aside the part of income one spends on oneself, the  protection required through human life value calculates today's value of one's  income for the years till his or her retirement.<br />
+                  <br />
+                  c) <strong>Needs analysis</strong><strong><br />
+                  </strong>In this method you calculate your needs by considering each of your  dependents and what financial milestones you want to achieve for them. The  needs may range from child education, marriage to repayment of loans. Next you  assess your current assets and investments and shortfall due to loss of life.  This gap in income can be filled up by insurance.</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><strong class="bodyhead">For what term do you need this cover?</strong></td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">Ideally,  insurance must be taken to cover the working period in one's life. You take  insurance to protect your dependents from the loss of your income; using the  same logic, you take insurance for the time that the dependents are being  supported by your income. Hence, it is advisable to take insurance till one's  retirement. However, when insurance is taken for protecting and saving towards  specific goals, then the tenure of the plan should match the years left for  meeting the goal.</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodyhead">What type of products suit you?</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">Choosing a product will depend on the specific need and the life stage one is  in. What is the final product you will choose? When there are multiple choices  that match the need, it is the affordability that makes the final choice. Most  importantly, individuals must be aware of the purpose of the insurance they are  buying. They must know that life insurance products for investment and savings  are structured for the long term and meant for someone who is earning and whose  earnings are supporting his/her dependant(s).</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><strong class="bodyhead">Financial planning and its role in selecting insurance</strong></td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext"><p>To be able  to prescribe the best insurance products for an individual or family, a  financial plan is necessary. Any advisor needs an in-depth knowledge and  understanding and proper prioritization of all aspects of your life. The  probable duration of life, amount of security needed, present and future needs  / shortfalls and post retirement requirements are also essential pieces of  information to be collected. Knowledge of the &quot;markets&quot; / mutual  funds and economic climate coupled with comprehension and application of HLV  (human life value), expense protection, and corpus requirements for retirement  help in prescribing an effective solution. <br />
+                  <br />
+                  With the awareness of a need for proper financial  planning on the rise, coupled with the plethora of insurance products available,  it is imperative that you take any decision after doing your home work or  engaging a competent financial planner.<br />
+                  <br />
+                  <strong>In a nutshell</strong></p>
+                  <ul>
+                    <li>It  is very important that you are adequately covered as inadequate cover is equal  to no cover at all. </li>
+                    <li>Insurance  planning is the first step towards financial planning and financial planning  should be the first step towards purchasing insurance. To advise an individual  on his or her insurance needs, it is important to get a holistic view of the  present and the future. </li>
+                    <li>Insurance  requirement must be reviewed every two years or when there is a change in the  family scenario, for example: the addition of dependants. </li>
+                    <li>The  insurance requirement changes with every change in your life -- income,  expenses, life style, members, liabilities and assets.</li>
+                  </ul></td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="bodytext">Do <a href="contactus.htm" class="link">Contact Us</a> for more details. </td>
+              </tr>
+              <tr>
+                <td class="bodytext">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td style="border-bottom:solid 1px #FFF;"><iframe src="link.htm" width="100%" height="40" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe src="copyright.htm" width="100%" height="25" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+</table>
+</body>
+</html>

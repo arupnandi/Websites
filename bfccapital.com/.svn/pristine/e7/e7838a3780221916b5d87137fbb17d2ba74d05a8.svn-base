@@ -1,0 +1,140 @@
+.jqueryslidemenu{
+font: bold 11px tahoma;
+background: #ffffff;
+width: 100%;
+}
+
+.jqueryslidemenu ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+/*Top level list items*/
+.jqueryslidemenu ul li{
+position: relative;
+display: inline;
+float: left;
+
+}
+
+/*Top level menu link items style*/
+.jqueryslidemenu ul li a{
+display: block;
+color: #ffffff;
+padding: 8px 10px ;
+text-decoration: none;
+background-image:url(menu_mid.jpg);
+background-repeat:repeat-x;
+}
+
+* html .jqueryslidemenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.jqueryslidemenu ul li a:link
+{
+display: block;
+color: #ffffff;
+padding: 8px 10px ;
+text-decoration: none;
+background-image:url(menu_mid.jpg);
+background-repeat:repeat-x;
+}
+
+
+.jqueryslidemenu ul li a:visited
+{
+display: block;
+color: #ffffff;
+padding: 8px 10px ;
+
+text-decoration: none;
+background-image:url(menu_mid.jpg);
+background-repeat:repeat-x;
+}
+
+
+.jqueryslidemenu ul li a:hover{
+background: #b52f29; /*tab link background during hover state*/
+color: #ffffff;
+}
+	
+/*1st sub level menu*/
+.jqueryslidemenu ul li ul{
+position: absolute;
+left: 0;
+display: block;
+visibility: hidden;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jqueryslidemenu ul li ul li{
+display: list-item;
+float: none;
+background-color:#F00;
+}
+
+/* Sub level menu links style */
+.jqueryslidemenu ul li ul li a{
+font: normal 11px Verdana;
+width: 200px; /*width of sub menus*/
+padding: 5px;
+color: #ffffff;
+margin: 0;
+font-weight:normal;
+border: solid 1px #FFF;
+background-image:url(submenu-bg.jpg);
+}
+
+
+.jqueryslidemenu ul li ul li a:link{
+font: normal 11px Verdana;
+width: 200px; /*width of sub menus*/
+padding: 5px;
+color: #ffffff;
+margin: 0;
+font-weight:normal;
+border: solid 1px #FFF;
+background-image:url(submenu-bg.jpg);
+}
+
+.jqueryslidemenu ul li ul li a:visited{
+font: normal 11px Verdana;
+width: 200px; /*width of sub menus*/
+padding: 5px;
+color: #ffffff;
+margin: 0;
+font-weight:normal;
+border: solid 1px #FFF;
+background-image:url(submenu-bg.jpg);
+}
+
+.jqueryslidemenu ul li ul li a:hover
+{
+	background-image:url(menu_mid.jpg);
+	background-repeat:repeat-x;
+	color:#ffffff;
+}
+
+
+
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+position: absolute;
+top: 12px;
+right: 7px;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jqueryslidemenu ul li ul li ul{
+top: 0;
+}

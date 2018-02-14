@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link href="/realestate/css/standard.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!---------- Header Starts -------------->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="re_head_strip"></td>
+  </tr>
+  <tr>
+    <td class="re_bg_head_strip2">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td>&nbsp;</td>
+            <td width="1000" align="center">
+                <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="left"><img src="/realestate/images/logo2.gif" width="383" height="83" /></td>
+                    <td class="re_bg_head_right">&nbsp;</td>            
+                  </tr>
+             	</table>    
+    	   </td>
+   		   <td class="re_bg_head_right_bg_expand">&nbsp;</td>
+ 		</tr>
+   	 </table>
+
+    </td>
+  </tr>
+  <tr>
+   <td height="5"></td>
+  </tr>
+  <tr>
+   <td align="center" bgcolor="#f6f7f8">
+   <table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+     <tr>
+       <td align="center"><img src="/realestate/images/menu.jpg" width="982" height="41" /></td>
+     </tr>
+   </table></td>
+  </tr> 
+</table>
+
+<!---------- Header Ends -------------->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#f6f7f8">
+  <tr>
+    <td align="center">
+    	<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/realestate/images/under-construction-logo.gif" width="534" height="535" /></td>
+          </tr>
+          <tr>
+            <td><iframe src="/link.htm" width="100%" height="40" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td><iframe src="/copyright.htm" width="100%" height="25" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+        </table>
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+</body>
+</html>

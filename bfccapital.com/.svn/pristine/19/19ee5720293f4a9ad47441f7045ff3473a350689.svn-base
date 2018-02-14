@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Tax Deduction </title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<meta name="keywords" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, Commodity, PMS, Latest NAV, KYC"  />
+<meta name="description" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, PMS, Latest NAV, Commodity, KYC" />
+
+<script language="javascript1.4" src="js/fade-in_life.js" type="text/javascript"></script>
+
+
+<script type="text/JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('images/latest_over.gif')">
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="1"><img src="images/left_top.gif" width="13" height="15" /></td>
+    <td width="1005" background="images/mid_top.gif"></td>
+    <td width="1" align="right"><img src="images/right_top.gif" width="14" height="15" /></td>
+  </tr>
+  <tr>
+    <td height="424" background="images/mid_left.gif">&nbsp;</td>
+    <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><iframe src="header.htm" width="100%" height="83" align="left" scrolling="No" frameborder="0" ></iframe></td>
+      </tr>
+      <tr>
+        <td height="5"></td>
+      </tr>
+      <tr>
+        <td height="28"><script language="JavaScript1.2" src="home_menu.js" type="text/javascript"></script><script language="JavaScript1.2" src="btn_inn.js" type="text/javascript"></script></td>
+      </tr>
+      <tr>
+        <td height="10"></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="39%" style="border-right: solid 1px #FFFFFF;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="380" height="209">
+              <param name="movie" value="swf/welcome3.swf" />
+			  <param name="wmode" value="transparent" />
+              <param name="quality" value="high" />
+              <embed src="swf/welcome3.swf" quality="high" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="380" height="209"></embed>
+            </object></td>
+            <td width="61%" align="right" valign="top"><table width="100" border="0" align="right" cellpadding="0" cellspacing="0" >
+              <tr>
+                <td height="20"><script type="text/javascript">
+//new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
+new fadeshow(fadeimages, 596, 209, 0, 5000, 1, "L")
+
+                                  </script></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td background="images/line_bh.gif">&nbsp;</td>
+      </tr>
+      
+      
+      <tr>
+        <td><table width="100%" height="530" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="27%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="images/spacer.gif" width="302" height="5" /></td>
+              </tr>
+              
+              <tr>
+                <td><a href="child_future.htm"><img src="images/child_future.jpg" width="303" height="95" border="0" /></a></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><a href="retirement_planning.htm"><img src="images/retirement.jpg" width="303" height="80" border="0" /></a></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><a href="online_investments.htm"><img src="images/online_side.jpg" width="303" height="70" border="0" /></a></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              
+
+              
+              <tr>
+                <td height="10"><iframe src="side_menu.htm" width="100%" height="140" align="left" scrolling="No" frameborder="0" ></iframe></td>
+              </tr>
+              
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><iframe src="wealth.htm" width="100%" height="240" align="left" scrolling="No" frameborder="0" ></iframe></td>
+              </tr>
+              
+              
+            </table></td>
+            <td width="73%" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><img src="images/spacer.gif" width="302" height="5" /></td>
+              </tr>
+              <tr>
+                <td class="textheader">Tax Deduction </td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              
+              <tr>
+                <td><table width="100%" border="0" align="left" cellpadding="5" cellspacing="0" bgcolor="#ffffff" class="bodytext">
+                  <tr>
+                    <td colspan="2" align="left" valign="top"><iframe src="http://www.investwellonline.com/websiteitem/tax/tax_deduction.htm" scrolling="Auto" frameborder="0" height="770" width="100%"></iframe></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" height="16">For any assistance, please do <a href="contactus.htm">contact us. </a></td>
+                  </tr>
+                </table></td>
+              </tr>
+              
+              
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      
+      <tr>
+        <td height="5" style="border-bottom: solid 1px #999999;"></td>
+      </tr>
+      <tr>
+        <td><iframe src="link.htm" width="100%" height="40" align="left" scrolling="No" frameborder="0" ></iframe></td>
+      </tr>
+      
+    </table></td>
+    <td background="images/mid_right.gif">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><img src="images/bottom_left.gif" width="13" height="16" /></td>
+    <td background="images/bottom_mid.gif"></td>
+    <td><img src="images/bottom_right.gif" width="14" height="16" /></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><iframe src="copyright.htm" width="100%" height="25" align="left" scrolling="No" frameborder="0" ></iframe></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

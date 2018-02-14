@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Mutual Fund</title>
+<link href="css/style-new.css" rel="stylesheet" type="text/css" />
+
+<meta name="keywords" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, Commodity, PMS, Latest NAV, KYC"  />
+<meta name="description" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, PMS, Latest NAV, Commodity, KYC" />
+
+<link rel="stylesheet" type="text/css" href="menu/jqueryslidemenu.css" />
+<script type="text/javascript" src="menu/jquery.min.js"></script>
+<script type="text/javascript" src="menu/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="menu/menu.js"></script>
+
+<script language="javascript1.4" src="js/fade-in_life.js" type="text/javascript"></script><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+</head>
+
+<body>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><iframe src="header.htm" width="100%" height="110" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="20"><script>mainmenu()</script></td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+  <tr>
+    <td><iframe src="flash_header.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="10%" valign="top"><table width="303" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><iframe src="login.htm" width="100%" height="140" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="graph.htm" width="100%" height="220" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td height="10"><iframe src="calculator_side.htm" width="100%" height="90" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="wealth.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+        </table></td>
+        <td width="90%" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="textheader">Mutual Fund</td>
+          </tr>
+          <tr>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="77%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td class="bodytext"><img src="images/mf.png" width="271" height="202" style="float:right; padding-left:10px;" /> As the name suggests, a mutual  fund is a fund that is created when a large number of investors put in their  money collectively, and is managed by professionally qualified people, called  Fund Manager, with experience in investing in different asset class viz.  shares, bonds, money market instruments, and other asset class like Gold and  real estate.<br />
+                      <br />
+                      Mutual Funds are compulsorily  registered with the Securities and Exchange Board of India (SEBI) , which acts  as regulator of Mutual funds for the protection of Investors.<br />
+                      <br />
+                      When a person invests in a  particular scheme of mutual fund, the fund house allots what are called UNITS  to the investors, at a price that is fixed through a process approved by SEBI.  This price is based on the &ldquo;net asset value&rdquo;, in simple terms which is the  total value of investment in a scheme divided by the total number of units  issued to investors in the said scheme. Normally, NAV&rsquo;s are computed and  published on a daily basis.
+                      <p><span class="bodyhead">Benefits of Investing  in Mutual Funds</span></p>
+                      <p>Any  one who is aware of stock market is not new to mutual funds. Mutual funds have  gained in popularity with the investing public especially in the last two  decades following are some of the primary benefits.</p></td>
+                  </tr>
+                  <tr>
+                    <td class="bodytext">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td class="bodytext"><strong>1. Professional  Financial Experts</strong></td>
+                  </tr>
+                  <tr>
+                    <td class="bodytext">Every Mutual Fund scheme  has a well-defined objective and behind every scheme, there is a dedicated team  of financial experts working in tandem with specialized investment research  team. These experts diligently and judiciously study companies, their products  and performance, and after thorough analysis, they decide on the best  investment option most aptly suited to achieve the scheme&rsquo;s objective as well  as investor&rsquo;s financial goals.</td>
+                  </tr>
+                  <tr>
+                    <td class="bodytext">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td class="bodytext"><strong>2. Diversifying Risk</strong></td>
+                  </tr>
+                  <tr>
+                    <td class="bodytext">It plays a very big part in the success of any  portfolio. Mutual funds invest in a broad range of securities. This limits  investment risk by reducing the effect of a possible decline in the value of  any one security. Mutual fund unit-holders can benefit from diversification  techniques usually available only to investors wealthy enough to buy  significant positions in a wide variety of securities.</td>
+                  </tr>
+                  <tr>
+                    <td class="bodytext">&nbsp;</td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td valign="top">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top"><strong class="bodytext">3. Low  Cost</strong></td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">Mutual  Funds generally provide an opportunity to invest with fewer funds as compared  to other avenues in the capital market. You can invest in a mutual fund  with as little as Rs. 5,000 and also have the option of investing a little of  Rs.500 every month in a SIP or Systematic Investment Plan.</td>
+              </tr>
+              <tr>
+                <td valign="top">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top"><strong class="bodytext">4. Liquidity</strong></td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">You can encash your money  from a mutual fund on immediate basis when compared with other forms of savings like the public provident fund or National Savings Scheme. You can withdraw or  redeem money at the Net Asset Value related prices in the open-end schemes. In  closed-end schemes, lock in period is mentioned, investor cannot redeem his  investment until that period.</td>
+              </tr>
+              <tr>
+                <td valign="top">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>5. </strong><strong class="bodytext">Variety of  Investment</strong></td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">There is no shortage of variety when investing  in mutual funds. There are funds that focus on blue-chip stocks, technology  stocks, bonds or a mix of stocks and bonds and with due assistance from a  financial expert, the investor can choose a scheme that aptly fits his  requirements, and helps him achieve maximum profitability.</td>
+              </tr>
+              <tr>
+                <td valign="top">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodyhead">Types of Mutual Funds</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>1. Equity Funds</strong></td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">Equity funds aim to provide capital growth by  investing in the shares of individual companies. Any dividends received by the  fund can be reinvested by the fund manager to provide further growth or paid to  investors. Both risk and returns are high but equity funds could be a good  investment if you have a long-term perspective and can stay invested for at  least five years.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>2. Debt or Income Funds</strong></td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">The aim of debt or income funds is to provide  you with a steady income. These funds generally invest in securities such as  bonds, corporate debentures, government securities (gilts) and money market  instruments. Opportunities for capital appreciation are limited.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>3.  Balanced Funds</strong></td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">The aim of balanced funds is to provide both  growth and regular income as such schemes invest both in equities and fixed  income securities in the proportion indicated in their offer documents. The investor may wish to balance his risk between various  sectors such as asset size, income or growth. Therefore the fund is a balance  between various attributes desired, however, NAVs of such funds are  likely to be less volatile compared to pure equity funds</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>4.  Liquid Funds</strong></td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">Liquid funds are a  safe place to park your money; it is an appealing alternative to bank  deposits because they aim to provide liquidity, capital preservation and  slightly higher interest rates than bank accounts. Returns on these funds  fluctuate much less compared to other funds as the fund manager invests in  'cash' assets such as treasury bills, certificates of deposit and commercial  paper.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext"><strong>5. Index Funds</strong></td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">Index  funds are passively managed funds i.e. the fund manager attempts to mirror the  performance of a benchmark index like the BSE Sensex or the S&amp;P CNX Nifty,  by being invested in the same stocks. NAVs of such schemes would rise or  fall in accordance with the rise or fall in the index. </td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top" class="bodytext">Do <a href="contactus.htm" class="link">Contact Us</a> for more details. </td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td style="border-bottom:solid 1px #FFF;"><iframe src="link.htm" width="100%" height="40" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe src="copyright.htm" width="100%" height="25" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+</table>
+</body>
+</html>

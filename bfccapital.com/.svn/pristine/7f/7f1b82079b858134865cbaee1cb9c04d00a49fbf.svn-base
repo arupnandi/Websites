@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Non-Life Insurance</title>
+<link href="css/style-new.css" rel="stylesheet" type="text/css" />
+
+<meta name="keywords" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, Commodity, PMS, Latest NAV, KYC"  />
+<meta name="description" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, PMS, Latest NAV, Commodity, KYC" />
+
+<link rel="stylesheet" type="text/css" href="menu/jqueryslidemenu.css" />
+<script type="text/javascript" src="menu/jquery.min.js"></script>
+<script type="text/javascript" src="menu/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="menu/menu.js"></script>
+
+<script language="javascript1.4" src="js/fade-in_life.js" type="text/javascript"></script><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+</head>
+
+<body>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><iframe src="header.htm" width="100%" height="110" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="20"><script>mainmenu()</script></td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+  <tr>
+    <td><iframe src="flash_header.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="10%" valign="top"><table width="303" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><iframe src="login.htm" width="100%" height="140" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="graph.htm" width="100%" height="220" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td height="10"><iframe src="calculator_side.htm" width="100%" height="90" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="wealth.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+        </table></td>
+        <td width="90%" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="textheader">Non-Life  Insurance</td>
+          </tr>
+          <tr>
+            <td><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td colspan="2" valign="top"><a name="top" id="top"></a></td>
+              </tr>
+              <tr>
+                <td colspan="2" valign="top"><table width="100%" border="00" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="79%" valign="top"><table width="98%" border="00" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><strong class="bodyhead">Health Insurance</strong></td>
+                      </tr>
+                      <tr>
+                        <td class="bodytext">You  may not care about your health, but you sure do care about your finances. With  healthcare costs rising at more than 15 per cent a year, having a health  insurance is becoming a necessity.</td>
+                      </tr>
+                      <tr>
+                        <td class="bodytext">&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="bodytext">These  policies are of three types -- the first covers basic hospitalisation needs;  the second critical illness; and the third daily hospital cash reimbursements.  Even life insurers offer health covers with defined benefits. </td>
+                      </tr>
+                      <tr>
+                        <td class="bodytext">&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="bodytext">Under  these, a pre-specified amount is paid as compensation, irrespective of the  expenses incurred.<br />
+                          With  or without a family, you need a health cover. For those who have a family, we  recommend a family floater instead of a standalone policy since the probability  of all family members needing hospitalisation at one go is remote. </td>
+                      </tr>
+                    </table></td>
+                    <td width="21%" align="right" valign="top"><img src="images/h_insurance.png" width="206" height="247" /></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">Even  if your employer offers group medical insurance, get your own cover. A change  of job could leave you without insurance, and so could retirement. And, getting  a fresh cover after 45 is difficult.</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><strong>Important</strong></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><ul type="disc">
+                  <li>Buy floater plan to cover entire       family </li>
+                  <li>Opt for a cashless plan, keep       cashless mediclaim cards at hand </li>
+                  <li>Ask insurers for premium rates       to find the cheapest policy </li>
+                  <li>Keep an eye on exclusions and       inclusions in the policy </li>
+                  <li>Undergo medical tests, if       required </li>
+                  <li>Buy health insurance even if you       have one from your employer </li>
+                </ul></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><table width="100%" border="00" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="79%" valign="top"><table width="99%" border="00" cellpadding="0" cellspacing="0" class="bodytext">
+                      <tr>
+                        <td class="bodyhead">Accident Insurance</td>
+                      </tr>
+                      <tr>
+                        <td>Accidents  don't just happen on the roads. You may meet with one if you slip in your  bathroom, or trip down the staircase in your office, or fail to see the next  step in the darkness of a cinema hall. </td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>One  careless step could render a double blow to your finances -- your healthcare  spending increases as you undergo treatment and your income stream gets  disrupted until you recuperate. It is here that accident insurance plays a  crucial role.</td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                    </table></td>
+                    <td width="21%" align="right" valign="top"><img src="images/accident.jpg" width="200" height="158" /></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">In  India, you have two major options to cover the risk from accidents. First, are  standalone personal accident insurance policies (PAIP) available with general  insurance companies. Second, you can get it as a rider along with a life cover.</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">Accident  policies only cover bodily injuries due to accidents, which are external,  violent and visible, as the definition goes. It covers you for four  contingencies that may arise from an accident -- death, permanent total  disability, permanent partial disability, and temporary total disability. </td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">Like  benefits from all insurance policies, buyers need to understand how these  contingencies are defined in the policy. When you go for a PAIP, opt for a  comprehensive cover of the four contingencies even if you have the option of  covering one, two or three of them.</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><strong>Important</strong></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><ul type="disc">
+                  <li>Choose your preferred insurer as       premiums are the same across insurers </li>
+                  <li>Provide income and profession       details to the insurer </li>
+                  <li>Insurer determines your risk category </li>
+                  <li>Pay the premium based on risk       category </li>
+                  <li>Opt for comprehensive cover to       include disability </li>
+                  <li>Receive certificate and check       its terms and conditions </li>
+                </ul></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodyhead">Motor Insurance</td>
+              </tr>
+              <tr>
+                <td width="86%" class="bodytext" style="padding-right:10px;">Not  having a cover for your vehicle is like driving one at night without switching on  the headlights.<br />
+                  You  need to compulsorily take a third-party insurance, or third-party liability  cover, sometimes also referred to as the 'act only' cover, when you buy a  vehicle. It is referred to as a 'third-party' cover since the beneficiary of  the policy is not the two parties involved in the contract -- the insured and  the insurance company.<br />
+                  It  covers the injuries to a third person, or damage to the third person's assets.  But, it is better to go for a comprehensive motor insurance.<br />
+                  You  can negotiate for a discount while buying. Also, soon general insurers would be  able to price the premium on the policy wordings. <br /></td>
+                <td width="14%" valign="top" class="bodytext"><img src="images/car_insurance.jpg" width="212" height="167" /></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><span class="bodytext" style="padding-right:10px;">As  a buyer, you will need to understand how the wordings of the policy would  affect your premium. Factors like the driver's age and record, the type of  vehicle and usage could determine the premium in the future. For now, look for  lower rates without compromising on any of the clauses or feature.<br />
+                  Always  remember, to transfer your no-claim bonus to the new car, if you are replacing  your old one. This way, you would be able to save 20-50 per cent on the first  premium of your new car.</span></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><strong>Important</strong></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><ul type="disc">
+                  <li>Talk directly with insurers or       brokers while comparing premiums </li>
+                  <li>Negotiate on discounts </li>
+                  <li>Check if there is deletion of       any clause or benefit </li>
+                  <li>Opt for co-payment/deductible to       lower premium outgo </li>
+                  <li>Make sure benefit of no-claim       bonus is added, if available </li>
+                </ul>
+                  Receive the original policy certificate/cover note </td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodyhead">Home Insurance</td>
+              </tr>
+              <tr>
+                <td class="bodytext" style="padding-right:10px;">For  most Indians, buying a house is the most cherished dream and probably the  biggest investment of life. Home insurance not only covers your dwelling  against unpredictable events, such as a terrorist attack or an earthquake, but  also your valuable personal property, such as consumer durables and jewellery. <br />
+                  The  premium is less than 1 per cent of the actual cost of the contents or structure  covered. You can also opt for a long-term cover by paying a lumpsum premium. In  terms of cost, the policy gives you two choices -- cover against the present  market value and against the reinstatement value, or the value at the time of  the claim. Opt for the latter.<br />
+                  You  can either opt for a standalone fire insurance policy (FIP), or a more  inclusive householder package policy (HHP). <br /></td>
+                <td align="right" valign="top"><img src="images/home_insurance.jpg" width="210" height="141" /></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">FIP  only protects the building of your house against fire and allied perils like  earthquake, lightning, storm, floods and riots. HHP, meanwhile, covers the  contents of the house against burglary and mechanical or electronic breakdown,  in addition to covering the building and contents against fire and other  perils. HPP even offers other covers like public liability due to your  negligence, personal accident (offers an income stream for the period you are  temporarily disabled and a lumpsum payment in the case of death or total  disability), workmen's compensation (covers you against injury or death of your  domestic help) and baggage loss.</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">Remember,  it's never too late to buy insurance. So, if you don't have the must have five,  buy them now.</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><strong>Important</strong></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext"><ul type="disc">
+                  <li>Choose your preferred insurer </li>
+                  <li>Compile a list of belongings </li>
+                  <li>Keep handy the purchase bills of       high value items </li>
+                  <li>Segregate items according to       perils </li>
+                  <li>Opt for personal accident cover       or other add-ons </li>
+                  <li>Receive the policy       certificate </li>
+                </ul></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="bodytext">For more information, please <a href="contactus.htm">contact us</a>. </td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td style="border-bottom:solid 1px #FFF;"><iframe src="link.htm" width="100%" height="40" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe src="copyright.htm" width="100%" height="25" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+</table>
+</body>
+</html>

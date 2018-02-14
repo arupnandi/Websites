@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Header</title>
+<link href="css/style-new.css" rel="stylesheet" type="text/css" />
+<link href="css/member_login.css" rel="stylesheet" type="text/css" />
+
+<script language="JavaScript1.2">
+<!--
+<!--
+
+
+		function forgetSend()
+		{
+			var isdis = window.open("http://investwell.in/jsp/imail.jsp?src=f&ta=abhijitnov@gmail.com","fem","toolbar=no,location=no,menubar=no,scrollbars=yes,width=500,height=200")
+		}
+
+function checkIt()
+{
+    if(document.frmlgn.lgn.value=="")
+    {
+        alert("Please enter user ID");
+        return false;
+    }
+    if(document.frmlgn.pswd.value=="")
+    {
+        alert("Please Enter Password");
+        return false;
+    }
+    return true
+}
+function redirect()
+{
+    if (checkIt())
+    {
+        var width=window.screen.width;
+        var height=window.screen.height-75;
+        var userName=document.frmlgn.lgn.value;
+        var password=document.frmlgn.pswd.value;
+        var uname='';
+        var pwd='';
+    for(var i=0; i<userName.length; i++ )
+    {
+        uname+=userName.charCodeAt(i)+'~';
+    }
+    for(var j=0; j<password.length; j++ )
+    {
+        pwd+=password.charCodeAt(j)+'~';
+    }
+    url="http://investwell.in/jsp/beforeLogin.jsp?who=c&lgn="+uname+"&pswd="+pwd+"&brokerId=10404";
+    var win=window.open('',"investwell","toolbar=no,top=0,left=,width="+width+",height="+height+"location=no,status=0,menubar=no,scrollbars=yes,resizable=yes");
+    win.status="";
+    win.location=url;
+    document.frmlgn.lgn.value="";
+    document.frmlgn.pswd.value="";
+}
+return false;
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
+</head>
+
+<body onload="MM_preloadImages('images/home_over.gif','images/about2-over.gif','images/contact_over.gif','images/career_over.gif','images/login_icon_over.gif')">
+
+
+<div class="member_login_bg"> <a href="http://bfccapital.my-portfolio.in" target="_blank"><img src="images/portfolio-login.jpg" width="300" height="150" style="border-radius:6px;" /></a>
+</div>
+
+</body>
+</html>

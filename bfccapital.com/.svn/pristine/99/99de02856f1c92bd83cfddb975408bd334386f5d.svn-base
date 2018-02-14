@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Header</title>
+<link href="css/style-new.css" rel="stylesheet" type="text/css" />
+
+<script type="text/JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<script language="JavaScript1.2">
+
+function checking()
+{
+	var comment=document.enquiry.comment.value;
+	var name=document.enquiry.name.value;
+	var mobile=document.enquiry.mobile.value;
+	var email=document.enquiry.email.value;
+	
+	if(name=="")
+	{
+		alert("Please fill your name");
+		document.enquiry.name.focus();
+		return false;
+	}
+
+	
+	
+		if(mobile=="")
+	{
+		alert("Please enter your phone / mobile no.");
+		document.enquiry.mobile.focus();
+		return false;
+	}				
+	
+	if(isEmail(email))
+	{}
+	else 
+	{
+		alert("Please enter your valid email id");
+		document.enquiry.email.focus();
+		return false;
+	}
+	
+		if(comment=="")
+	{
+		alert("Please write a Query / Comment");
+		document.enquiry.comment.focus();
+		return false;
+	}
+	
+	
+	
+	
+}
+
+// EMAIL VALIDATION
+    function isEmail(email)
+    {
+        var reg = new RegExp("^[A-Za-z0-9_]{1,}[.]?[A-Za-z0-9_]{1,}?[A-Za-z0-9_]{1,}@{1}([A-Za-z0-9]+[.]{1})+[A-Za-z]{1,}");
+        if(!reg.test(email))
+        {
+            return false;
+        }
+		return true;
+    }
+
+// NUMERIC VALIDATION
+function isNumeric(field)
+{
+    var digit="0123456789";
+    for(var i=0; i<field.length; i++)
+    {
+        if(digit.indexOf(field.charAt(i))<0)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
+</script>
+
+
+</head>
+
+<body>
+<table width="100%" height="500" border="0" cellpadding="0" cellspacing="0">
+  
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="images/corner_top_left.png" width="7" height="24" /></td>
+            <td width="98%" class="wealthcreation"  style="background-image:url(images/corner_top_mid.png); background-repeat:repeat-x;">Your First Step towards Wealth Creation</td>
+            <td align="right"><img src="images/corner_top_right.png" width="7" height="24" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td style="border-left:solid 1px #775ba6; border-right:solid 1px #775ba6;" ><form id="enquiry" name="enquiry" method="post" action="http://investwell.in/SITEJSP/bfccapitalJSP/wealth.jsp" onsubmit="return checking()">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="5" class="username"  ></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td width="31%" height="30" class="username">Your Name :</td>
+              <td width="69%"><input name="name" type="text" class="enquiry" size="20" id="name" /></td>
+            </tr>
+            <tr>
+              <td height="30" class="username">Email :</td>
+              <td><input name="email" type="text" class="enquiry" size="20" id="email" /></td>
+            </tr>
+            <tr>
+              <td height="30" class="username"  >Mobile No :</td>
+              <td ><input name="mobile" type="text" class="enquiry" size="20" id="mobile" /></td>
+            </tr>
+            <tr>
+              <td height="30" class="username"  >Comment : </td>
+              <td><textarea name="comment" cols="20" rows="3" class="enquiry" id="comment"></textarea></td>
+            </tr>
+            <tr>
+              <td height="3" colspan="2"></td>
+            </tr>
+            <tr>
+              <td colspan="2"  ><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="71%" class="forgot"><a href="#"></a></td>
+                  <td width="29%"><input type="submit" name="Submit" value="Submit" /></td>
+                </tr>
+              </table></td>
+            </tr>
+          </table>
+        </form></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="bottom"><img src="images/corner_left.png" width="7" height="6" /></td>
+            <td width="98%" background="images/corner_mid.png" style="background-repeat:repeat-x; background-position:bottom;"></td>
+            <td align="right" valign="bottom"><img src="images/corner_right.png" width="7" height="6" /></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>

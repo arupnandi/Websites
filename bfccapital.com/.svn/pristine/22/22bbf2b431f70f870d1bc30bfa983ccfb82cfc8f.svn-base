@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+.member_login_bg
+{
+	background:url(/images/member_login_bg.jpg) no-repeat;
+	width:302px;
+	height:149px;
+}
+
+.member_login_bg .empty
+{
+	height:35px;
+}
+
+.member_login_bg .input
+{
+	height:30px;
+}
+
+.member_login_bg .input input
+{
+	background:url(/images/input_bg.jpg) no-repeat center;
+	width:271px;
+	height:30px;
+	border:0;
+	
+}
+
+.member_login_bg .forgot_password
+{
+	float:left;
+	width:150px;
+	height:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#6d6d6d;
+	padding-left:15px;
+	padding-top:18px;
+}
+
+.member_login_bg .forgot_password a
+{
+	font-size:12px;
+	color:#871010;
+	text-decoration:underline;
+}
+
+.member_login_bg .forgot_password a:hover
+{
+	
+	text-decoration:none;
+}
+
+.member_login_bg .login
+{
+	float:right;
+	padding-top:10px;
+	padding-right:10px;
+	height:20px;
+	width:70px;
+}
+
+.member_login_bg .login input
+{
+	
+	width:59px;
+	height:26px;;
+}

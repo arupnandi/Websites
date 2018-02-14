@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Life Insurance</title>
+<link href="css/style-new.css" rel="stylesheet" type="text/css" />
+
+<meta name="keywords" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, Commodity, PMS, Latest NAV, KYC"  />
+<meta name="description" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, PMS, Latest NAV, Commodity, KYC" />
+
+<link rel="stylesheet" type="text/css" href="menu/jqueryslidemenu.css" />
+<script type="text/javascript" src="menu/jquery.min.js"></script>
+<script type="text/javascript" src="menu/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="menu/menu.js"></script>
+
+<script language="javascript1.4" src="js/fade-in_life.js" type="text/javascript"></script><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+</head>
+
+<body>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><iframe src="header.htm" width="100%" height="110" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="20"><script>mainmenu()</script></td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+  <tr>
+    <td><iframe src="flash_header.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="10%" valign="top"><table width="303" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><iframe src="login.htm" width="100%" height="140" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="graph.htm" width="100%" height="220" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td height="10"><iframe src="calculator_side.htm" width="100%" height="90" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="wealth.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+        </table></td>
+        <td width="90%" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="textheader">Life Insurance</td>
+          </tr>
+          <tr>
+            <td><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="19" valign="top" class="bodytext"><img src="images/life_insurance.png" width="218" height="167" style="float:right; padding-left:10px;" /> <strong>Life insurance</strong>&nbsp;is a contract between the&nbsp;policy holder&nbsp;and the&nbsp;insurer, where the insurer promises to pay a designated&nbsp;beneficiary&nbsp;a sum of money (the  &quot;benefits&quot;) upon the death of the insured person. Depending on the  contract, other events such as&nbsp;terminal illness&nbsp;or&nbsp;critical illness&nbsp;may also trigger payment. In return, the policy holder agrees to pay a  stipulated amount (the &quot;premium&quot;) at regular intervals or in lump  sums. The value for the policy owner is the 'peace of mind' in knowing that the  death of the insured person will not result in financial hardship.<br />
+                  <br />
+                  Life policies are  legal contracts and the terms of the contract describe the limitations of the  insured events. Specific exclusions are often written into the contract to  limit the liability of the insurer; common examples are claims relating to  suicide, fraud, war, riot and civil commotion.<br />
+                  <br />
+                  Life-based contracts  tend to fall into two major categories:
+                  <ul>
+                    <li><strong>Protection</strong><strong>&nbsp;</strong><strong>policies</strong> &ndash; designed to  provide a benefit in the event of specified event, typically a lump sum  payment. A common form of this design is term insurance.</li>
+                    <li><strong>Investment</strong><strong>&nbsp;</strong><strong>policies</strong> &ndash; where the main  objective is to facilitate the growth of capital by regular or single premiums.</li>
+                  </ul></td>
+              </tr>
+              <tr>
+                <td height="19" valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td height="19" valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td height="19" valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+              <tr>
+                <td height="19" valign="top" class="bodytext">For more information or any other assistance,
+                  please <a href="contactus.htm">contact us</a>. </td>
+              </tr>
+              <tr>
+                <td height="19" valign="top" class="bodytext">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td style="border-bottom:solid 1px #FFF;"><iframe src="link.htm" width="100%" height="40" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe src="copyright.htm" width="100%" height="25" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+</table>
+</body>
+</html>

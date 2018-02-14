@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Bonds</title>
+<link href="css/style-new.css" rel="stylesheet" type="text/css" />
+
+<meta name="keywords" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, Commodity, PMS, Latest NAV, KYC"  />
+<meta name="description" content="Mutual Fund, Insurance, Fund Perfoumance, IPO, NRI Investment, Tax Planning, Financial Planning, Bonds, Financial Investments,  SIP,  SIP Calculator, Dividend, 80C, Fixed Deposit, Growth Calculator, Financial Calculator, PMS, Latest NAV, Commodity, KYC" />
+
+<link rel="stylesheet" type="text/css" href="menu/jqueryslidemenu.css" />
+<script type="text/javascript" src="menu/jquery.min.js"></script>
+<script type="text/javascript" src="menu/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="menu/menu.js"></script>
+
+<script language="javascript1.4" src="js/fade-in_life.js" type="text/javascript"></script><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+</head>
+
+<body>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><iframe src="header.htm" width="100%" height="110" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="20"><script>mainmenu()</script></td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+  <tr>
+    <td><iframe src="flash_header.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="10%" valign="top"><table width="303" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><iframe src="login.htm" width="100%" height="140" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="graph.htm" width="100%" height="220" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td height="10"><iframe src="calculator_side.htm" width="100%" height="90" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+          <tr>
+            <td height="15"></td>
+          </tr>
+          <tr>
+            <td><iframe src="wealth.htm" width="100%" height="210" align="left" scrolling="No" frameborder="0" ></iframe></td>
+          </tr>
+        </table></td>
+        <td width="90%" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td colspan="2" valign="top" class="textheader">Disclaimer</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">These are our terms and conditions for usage of the website,&nbsp;<strong>www.bfccapital.com</strong>&nbsp;and the related services offered by BFC CAPITAL ('Related Services' hereafter means Stock Market Trading / Mutual Funds / ULIPs / Investment Recommendations and Analysis given through E-Mail, Messenger, Mobile Phone, Mobile SMS, Telephone or in any other form, manner or media)</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">&nbsp;BFC CAPITAL owns <strong>www.bfccapital.com</strong> and all its contents &amp; related services. You agree and understand that the information and material contained in this website and the related services offered by  BFC CAPITAL.</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">Research' implies and constitutes your consent to the terms and conditions mentioned below. You also agree that  BFC CAPITAL can modify or alter the terms and conditions of the use of this service without any liability.</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">The contents of this site &amp; related services offered by  BFC CAPITAL are solely the personal views of the contributors.<strong>&nbsp;BFC CAPITAL&nbsp;</strong>reserve the right to make modifications and alterations to the contents of this website. Users are advised to use the data for the purpose of information only and rely on their own judgment while making investment or trading decisions. The investments or trades discussed or recommended in this website &amp; related services offered by  BFC CAPITAL may not be suitable for all investors.</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext"> BFC CAPITAL do not warranty the timeliness, accuracy or quality of the electronic content and take no responsibility for any loss or profit arising out of decisions being made by anyone acting on the analysis or recommendations published in this website.</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">The contents of this website &amp; the related services offered by BFC CAPITAL cannot be copied, reproduced, republished, uploaded, posted, transmitted or distributed for any non-personal use without obtaining prior permission from  BFC CAPITAL.&nbsp; Any person&nbsp; who intend to use&nbsp; the&nbsp; services rendered by BFC CAPITAL should do so only after due consideration of the above as well as all other factors.&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext"><strong> BFC CAPITAL is not responsible for the contents of any of the linked sites</strong>. By providing access to other website nor recommending nor endorsing the content available in the linked websites. If you do not agree to any of the terms mentioned in this agreement, you should kindly exit the site.</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="bodytext">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td style="border-bottom:solid 1px #FFF;"><iframe src="link.htm" width="100%" height="40" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe src="copyright.htm" width="100%" height="25" align="left" scrolling="No" frameborder="0" ></iframe></td>
+  </tr>
+</table>
+</body>
+</html>

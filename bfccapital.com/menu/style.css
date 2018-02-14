@@ -1,0 +1,54 @@
+body { margin:0px; background-color:#45484D;}
+object { margin:0px;}
+
+
+
+.addressdetails { font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#000000; text-align:right; padding-:3px;   }
+
+.header { font-family:"Times New Roman", Times, serif; font-size:17px; color:#ffffff; text-align:left; padding-left:20px; letter-spacing:1px; }
+
+.subhead { font-family: tahoma; font-size: 11px; color: #00ccff;  text-decoration:none; text-align:center; padding-left:10px; padding-right:10px;}
+.subhead a:link { font-family: tahoma; font-size: 11px; color: #00ccff;   text-decoration:none; }
+.subhead a:visited{ font-family: tahoma; font-size: 11px; color: #00ccff;   text-decoration:none; }
+.subhead a:hover{ font-family: tahoma; font-size: 11px; color: #ffea00;   text-decoration:none; }
+
+.header2 { font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-align:center;  }
+
+.about_header { font-family:"Times New Roman", Times, serif; font-size:17px; color:#000000; text-align:center;   }
+
+.about { font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#ffffff; text-align:center; line-height:17px; letter-spacing:1px; padding-left:30px; padding-right:30px;  }
+
+.address2 { font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#ffffff; text-align:justify;  line-height:17px; padding-left:15px;   }
+
+.about2 { font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-align:justify;   padding-left:30px; padding-right:30px; line-height:19px;  }
+
+.address { font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#ffffff; text-align:justify;  padding-left:30px; padding-right:30px;  }
+
+.address_header { font-family:Arial, Helvetica, sans-serif; font-size:17px; color:#ffffff; text-align:justify;  padding-left:30px; padding-right:30px;  }
+
+.about_over { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #F09F02; font-weight:bold;  text-decoration:none; text-align:center; padding-left:10px; padding-right:10px;}
+.about_over a:link { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #FE0101;   text-decoration:none; }
+.about_over a:visited{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #FE0101;   text-decoration:none; }
+.about_over a:hover{ font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #fe9900;   text-decoration:none; }
+
+.entersite { font-family: tahoma; font-size: 14px; color: #000000;  text-decoration:none; text-align:center; font-weight:bold; padding-left:10px; padding-right:10px;}
+.entersite a:link { font-family: tahoma; font-size: 14px; color: #000000;   text-decoration:none; }
+.entersite a:visited{ font-family: tahoma; font-size: 14px; color: #000000;   text-decoration:none; }
+.entersite a:hover{ font-family: tahoma; font-size: 14px; color:#0099FF;   text-decoration:none; }
+
+
+
+.footer { font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#000000; text-align:right;  padding-right:50px; }
+
+.pageheader { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:18px; color:#FF0000; font-weight:normal; padding-left:5px; }
+
+.subhead { font-family:tahoma; font-size:11px; font-weight:bold; color:#990000; text-align:left; height:20px; }
+
+.product { font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; text-align:justify;   padding-left:30px; padding-right:30px;  }
+
+.indexquote { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:16px; color:#CE2123; font-weight:normal; text-align:center;}
+
+.enquiry { font-family:arial; font-size:12px; color:#333333; }
+
+.career { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#333333; background-color:#FFD18D; padding:10px; line-height:20px;}
+.careerpost { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#990000; background-color:#FFEA01; padding:5px; font-weight:bold;}
